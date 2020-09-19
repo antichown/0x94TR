@@ -2,13 +2,21 @@
 # 0x94TR Burp Extension - Java version
 
 Command Injection
+
 Blind Command Injection
+
 Template Injection
+
 Code Injection
+
 Local Fıle Inclusion
+
 SSI Injection
+
 Open Redirect
+
 SSRF
+
 Arbitrary File Download
 
 

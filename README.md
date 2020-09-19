@@ -1,8 +1,6 @@
 
 # 0x94TR Burp Extension - Java version
 
-Scans only sites added to scope
-
 Install
 -----------------------------
 <img src="https://raw.githubusercontent.com/antichown/0x94TR/master/94_1.png">

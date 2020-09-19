@@ -35,4 +35,8 @@ Arbitrary File Download
 
 <img src="https://raw.githubusercontent.com/antichown/0x94TR/master/94_3.png">
 
+All responsibility belongs to the user
+
+Tüm sorumluluk kullanıcıya aittir.
+
 twitter @0x94

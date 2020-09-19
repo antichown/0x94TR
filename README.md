@@ -10,3 +10,6 @@ Install
 ---------------------------------
 
 <img src="https://raw.githubusercontent.com/antichown/0x94TR/master/94_2.png">
+---------------------------------
+
+<img src="https://raw.githubusercontent.com/antichown/0x94TR/master/94_3.png">

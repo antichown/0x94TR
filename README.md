@@ -39,4 +39,5 @@ All responsibility belongs to the user
 
 Tüm sorumluluk kullanıcıya aittir.
 
-twitter @0x94
+
+<a href="https://twitter.com/0x94">Twitter 0x94</a>

@@ -50,12 +50,12 @@ Tüm GET ve POST verilerinde Blind XPATH injection dener<br>
 Tüm GET ve POST verilerinde Remote Command Execution dener<br>
 Tüm GET ve POST verilerinde Blind Command injection dener<br>
 Tüm GET ve POST verilerinde SQL injection dener<br>
-Tüm GET ve POST verilerinde Blind SQL injection dener<br><br>
+Tüm GET ve POST verilerinde Blind SQL injection dener<br>
 Tüm GET ve POST verilerinde Time Based SQL injection dener<br>
 Tüm GET ve POST verilerinde Header injection dener<br>
 Tüm GET ve POST verilerinde Cross-Site Scripting(XSS) dener(noscript olup olmadiğini belirtir)<br>
-Tüm GET ve POST verilerinde Command injection dener<br><br><br>
-Tüm GET ve POST verilerinde Frame injection dener<br><br>
+Tüm GET ve POST verilerinde Command injection dener<br>
+Tüm GET ve POST verilerinde Frame injection dener<br>
 Tüm Sitede Local File Inclusion denemesi yapar.<br>
 Http Trace Cross-Site Scripting açığını test eder<br>
 Tüm linklerde Header Crlf injection dener<br>

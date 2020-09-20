@@ -1,10 +1,3 @@
-
-# 0x94TR
-
-- Burp version<br>
-- Windows version (does not require burp - Burp gerektirmiyor)<br>
-- Linux version (does not require burp - Burp gerektirmiyor)<br><br>
-
 # 0x94TR Burp version<br>
 Command Injection<br>
 Blind Command Injection<br>

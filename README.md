@@ -23,7 +23,9 @@ Arbitrary File Download
 
 <img src="https://raw.githubusercontent.com/antichown/0x94TR/master/watch.gif">
 -----------
+<img src="https://raw.githubusercontent.com/antichown/0x94TR/master/watch2.gif">
 
+-------------
 #Install
 -----------------------------
 <img src="https://raw.githubusercontent.com/antichown/0x94TR/master/94_1.png">

@@ -1,5 +1,9 @@
 
-# 0x94TR Burp Extension - Java version
+# 0x94TR
+
+- Burp version<br>
+- Windows version (does not require burp - Burp gerektirmiyor)<br><br><br>
+- Linux version (does not require burp - Burp gerektirmiyor)<br><br>
 
 Command Injection<br>
 Blind Command Injection<br>

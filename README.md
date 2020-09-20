@@ -35,7 +35,8 @@ Arbitrary File Download<br>
 # 0x94TR - Python version (does not require burp - Burp gerektirmiyor)
 
 <img src="https://raw.githubusercontent.com/antichown/0x94TR/master/config.png">
-
+<br>
+<img src="https://raw.githubusercontent.com/antichown/0x94TR/master/ddd.png">
 
 All responsibility belongs to the user
 

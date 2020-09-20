@@ -1,24 +1,15 @@
 
 # 0x94TR Burp Extension - Java version
 
-Command Injection
-
-Blind Command Injection
-
-Template Injection
-
-Code Injection
-
-Local Fıle Inclusion
-
-SSI Injection
-
-Open Redirect
-
-SSRF
-
-Arbitrary File Download
-
+Command Injection<br>
+Blind Command Injection<br>
+Template Injection<br>
+Code Injection<br>
+Local Fıle Inclusion<br>
+SSI Injection<br>
+Open Redirect<br>
+SSRF<br>
+Arbitrary File Download<br>
 -----------
 
 <img src="https://raw.githubusercontent.com/antichown/0x94TR/master/watch.gif">

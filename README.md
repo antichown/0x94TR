@@ -26,7 +26,7 @@ Arbitrary File Download<br>
 
 <img src="https://raw.githubusercontent.com/antichown/0x94TR/master/94_3.png">
 --------------------------
-<img src="https://raw.githubusercontent.com/antichown/0x94TR/master/enable.png">
+<img src="https://raw.githubusercontent.com/antichown/0x94TR/master/proxyenable.png">
 
 SADECE Güvenlik testleri için kullanın<br>
 Yazılımın oluşturacağı sorunlardan yazılımcı sorumlu değildir.<br>

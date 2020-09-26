@@ -1,4 +1,7 @@
 # 0x94TR Burp version<br>
+
+Not: Community sürümde collaborator olmadığından düzgün çalışmayabilir.<br>
+
 Command Injection<br>
 Blind Command Injection<br>
 Template Injection<br>
